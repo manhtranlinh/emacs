@@ -8,8 +8,7 @@
  '(package-selected-packages
    '(tx yasnippet xah-replace-pairs xah-get-thing xah-css-mode use-package rg paredit lsp-ui htmlize helm-ag flycheck erlang elixir-mode company))
  '(safe-local-variable-values
-   '((lsp-elixir-project-dir . "fim")
-     )))
+   '((lsp-elixir-project-dir . "fim"))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

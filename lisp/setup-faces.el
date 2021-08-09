@@ -64,9 +64,9 @@
 
 ;; config theme
 (use-package zenburn-theme :defer t)
-(use-package monokai-theme :defer t)
-(use-package atom-one-dark-theme :defer t)
-(use-package doom-themes :defer t)
+;;(use-package monokai-theme :defer t)
+;;(use-package atom-one-dark-theme :defer t)
+;;(use-package doom-themes :defer t)
 ;;(load-theme 'doom-vibrant t)
 ;;(load-theme 'doom-zenburn t)
 (load-theme 'zenburn t)

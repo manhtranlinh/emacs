@@ -157,6 +157,8 @@
 (load "~/.emacs.d/lisp/init-org.el")
 
 (use-package json-mode)
+(global-set-key (kbd "C-c C-c") 'comment-region)
+(global-set-key (kbd "C-c C-u") 'uncomment-region)
 
 (provide 'setup-programming)
 ;;; setup-programming.el ends here
